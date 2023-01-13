@@ -38,5 +38,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlotte283/react-hooks-react-app-example.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "char",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlotte283/react-hooks-react-app-example/issues"
+  },
+  "homepage": "https://github.com/charlotte283/react-hooks-react-app-example#readme"
 }
